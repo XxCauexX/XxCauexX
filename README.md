@@ -1,7 +1,7 @@
 ## Olá, eu sou Cauê de Andrade. Seja bem-vindo ao meu GitHub! 👋
 - 🌱 Atualmente eu estudo Desenvolvimento de Sistemas na Etec Uirapuru
 ##
-### linguagens que estou aprendendo 
+### Linguagens que estou aprendendo 
 <div style="display: inline_block"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50"width="60" align="center" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"width="60" align="center" />
