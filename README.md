@@ -1,5 +1,5 @@
 ## Olá, eu sou Cauê de Andrade. Seja bem-vindo ao meu GitHub! 👋
-- 🌱 Atualmente eu estudo Desenvovimento de Sistemas na Etec Uirapuru
+- 🌱 Atualmente eu estudo Desenvolvimento de Sistemas na Etec Uirapuru
 ##
 ### linguagens que estou aprendendo 
 <div style="display: inline_block"><br>
