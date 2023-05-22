@@ -12,9 +12,10 @@
     
   </div>
  
- ### Linguagens mais usadas
+ 
  ##
  
+ ### Linguagens mais usadas
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxCauexX&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **XxCauexX/XxCauexX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
