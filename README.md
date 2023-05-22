@@ -22,7 +22,7 @@
 **XxCauexX/XxCauexX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://www.robocore.net/tutoriais/conectando-esp8266-no-arduino#:~:text=Ap%C3%B3s%20observar%20as%20redes%20Wi,OK%20%2C%20como%20na%20imagem%20abaixo.
 - 🔭 Atualmente eu estudo Desenvovimento de Sistemas na Etec Uirapuru
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
