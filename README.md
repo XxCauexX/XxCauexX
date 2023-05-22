@@ -16,7 +16,9 @@
  ##
  
  ### Linguagens mais usadas
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxCauexX&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/XxCauexX">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCauexX&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 <!--
 **XxCauexX/XxCauexX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
