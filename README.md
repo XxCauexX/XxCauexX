@@ -11,6 +11,11 @@
     <img align="center" alt="Cauê-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
   </div>
+ 
+ ### Linguagens mais usadas
+ ##
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxCauexX&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **XxCauexX/XxCauexX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
