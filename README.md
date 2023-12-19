@@ -16,7 +16,9 @@
  ##
 
  <a href="https://github.com/XxCauexX">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCauexX&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCauexX&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XxCauexX&langs_count=10&card_width=699&theme=transparent" />
+    
   </a>
 <!--
 **XxCauexX/XxCauexX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
